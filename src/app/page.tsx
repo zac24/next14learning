@@ -28,7 +28,7 @@ export default function Home() {
         </div>
       </div>
 
-      <h1>Hello World in Next.js 14</h1>
+      <h1>Hello World in Next.js 14, Will start learning file based routing first</h1>
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
         <a
