@@ -1,3 +1,3 @@
 export default function Home () {
-    return <h1>Welcome to next.js 14 Home Page</h1>
+    return <h1>Welcome to next.js Home Page</h1>
 }
